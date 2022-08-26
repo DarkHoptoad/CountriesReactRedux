@@ -1,1 +1,1 @@
-[Demo](https://darkhoptoad.github.io/CountriesReactRedux/)
+Demo https://darkhoptoad.github.io/CountriesReactRedux/
